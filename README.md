@@ -6,15 +6,15 @@ The schedule is created for January 2026 and can be easily extended to other mon
 
 ## Project Objectives
 
--- To create a centralized shift planning system for employees
--- To ensure balanced allocation of Morning, Afternoon, and Night shifts
--- To automatically validate shift coverage per day
---To identify missing or insufficient shifts at a glance
---To improve operational efficiency and workforce planning
+-To create a centralized shift planning system for employees
+-To ensure balanced allocation of Morning, Afternoon, and Night shifts
+-To automatically validate shift coverage per day
+-To identify missing or insufficient shifts at a glance
+-To improve operational efficiency and workforce planning
 
 ## Project Insights
 
--- Some days show "Missing" shift checks, indicating incomplete assignments
--- Sundays can have zero shifts, helping identify planned off-days
---Balanced distribution avoids overloading specific employees
---Visual formatting makes workforce gaps immediately noticeable
+-Some days show "Missing" shift checks, indicating incomplete assignments
+-Sundays can have zero shifts, helping identify planned off-days
+-Balanced distribution avoids overloading specific employees
+-Visual formatting makes workforce gaps immediately noticeable
