@@ -4,6 +4,9 @@ This project is an Excel-based Monthly Work Schedule system designed to plan, tr
 
 The schedule is created for January 2026 and can be easily extended to other months with minimal changes.
 
+## Project Link
+- <a href="https://github.com/hrcharan001/Projects/blob/main/work%20schedule%20-%20project%20(self).xlsx">Link</a>
+
 ## Project Objectives
 
 - To create a centralized shift planning system for employees
