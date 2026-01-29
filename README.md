@@ -7,6 +7,8 @@ The schedule is created for January 2026 and can be easily extended to other mon
 ## Project
 - <a href="https://github.com/hrcharan001/Projects/blob/main/work%20schedule%20-%20project%20(self).xlsx">Click To View</a>
 
+<img width="1907" height="956" alt="work schedule SS of excel" src="https://github.com/user-attachments/assets/9b2a2ba2-211d-424f-afa5-ed3af1085d3a" />
+
 ## Project Objectives
 
 - To create a centralized shift planning system for employees
@@ -21,6 +23,7 @@ The schedule is created for January 2026 and can be easily extended to other mon
 - Sundays can have zero shifts, helping identify planned off-days
 - Balanced distribution avoids overloading specific employees
 - Visual formatting makes workforce gaps immediately noticeable
+
 
 ## Learning Outcomes
 
